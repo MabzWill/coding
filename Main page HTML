@@ -1,0 +1,38 @@
+# coding
+
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>MW Main Page</title>
+<link rel="stylesheet" type="text/css" href="MW-Main-Page.css"/>
+</head>
+
+<body class="page">
+<h1 class="title">MW</h1>
+<h2>Pronounced: em double-u</h2>
+<nav>
+<img class="cart" src="Photo/Shopping Cart.jpg" alt="Shopping">
+<p><a class="bio-link" href="MW-Bio-Page.html">Bio</a></p>
+</nav>
+
+<img class="main-logo" src="Photo/Business logo 1.png" alt="logo 1">
+<p class="p1">Welcome to <b>"MW"</b> a home-based business where we sell products based on their respected sections.</p>
+
+<a href="MW-Photo-Page.html"><img class="sub-logo2" src="Photo/Business logo 3.png" alt="logo 3"></a>
+<p class="p3">This section takes you to a wide variety of beautiful Photographs of landscape, ocean, mountain views and the sky taken across North Wales and hopefully across the world soon.</p>
+
+<a href="MW-Spice-Page.html"><img class="sub-logo1" src="Photo/Business logo 2.png" alt="logo 2"></a>
+<p class="p2">This section takes you to a wide variety of spices made around the world and mixed together at home to make extremely nice flavours, perfect for making curry and chilli.</p>
+
+<div class="footer">
+<h1 class="footer-title">Contact details</h1>
+<h3 class="email">Email Address: MWEnterprise@phonecoop.coop</h3>
+<img class="gmail-logo" src="Photo/Gmail.jpg" alt="logo 4">
+<h3 class="phone">Phone Number: 04867 443169</h3>
+<img class="phone-logo" src="Photo/Phone.jpg" alt="logo 5">
+<h3 class="instagram">Instagram: MW_Enterprise</h3>
+<img class="instagram-logo" src="Photo/Instagram.jpg" alt="logo 6">
+</div>
+</body>
+  
