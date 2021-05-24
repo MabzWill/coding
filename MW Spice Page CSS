@@ -1,0 +1,277 @@
+.page {
+	width: 100%;
+	height: 2850px;
+	border: 5px solid orange;
+	background: url('Photo/Business logo 2 bg.jpg');
+	background-attachment: fixed;
+	padding-right: 1600px;
+}
+
+h2 {
+	position: relative;
+	left: 810px;
+}
+
+.bg {
+	background: url('Business logo 2.jpg');
+}
+
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: montserrat;
+}
+
+nav {
+	background: orange;
+	height: 75px;
+	width: 1897px;
+	padding-right: 1800px;
+}
+
+.bio-link {
+	position: relative;
+	left: 1750px;
+	bottom: 200px;
+	font-family: 'lato', sans-serif;
+	font-size: 25px;
+}
+
+.main-logo {
+	width: 100px;
+	position: relative;
+	top: 2px;
+	left: 1px;
+}
+
+.sub-logo {
+	width: 100px;
+	position: relative;
+	bottom: 73.5px;
+	left: 105px;
+}
+
+.cart {
+	width: 70px;
+	position: relative;
+	bottom: 148px;
+	left: 1662px;
+}
+
+.sweet-paprika {
+	width: 550px;
+	position: relative;
+	left: 300px;
+	top: 100px;
+}
+
+.paprika-description {
+	position: relative;
+	left: 1000px;
+	bottom: 100px;
+	width: 300px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	box-sizing: content-box;
+	border: 5px solid orange;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.paprika-basket {
+	position: relative;
+	left: 1500px;
+	bottom: 175px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	padding-right: 150px;
+}
+
+.cumin {
+	width: 400px;
+	position: relative;
+	top: 100px;
+	left: 300px;
+}
+
+.cumin-description {
+	position: relative;
+	left: 1000px;
+	bottom: 150px;
+	width: 300px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	box-sizing: content-box;
+	border: 5px solid orange;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.cumin-basket {
+	position: relative;
+	left: 1500px;
+	bottom: 225px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	padding-right: 150px;
+}
+
+.chilli-powder {
+	width: 400px;
+	position: relative;
+	top: 150px;
+	left: 300px;
+}
+
+.chilli-powder-description {
+	position: relative;
+	left: 1000px;
+	Bottom: 50px;
+	width: 300px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	box-sizing: content-box;
+	border: 5px solid orange;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.chilli-powder-basket {
+	position: relative;
+	left: 1500px;
+	bottom: 125px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	padding-right: 150px;
+}
+
+.ginger {
+	width: 400px;
+	position: relative;
+	top: 150px;
+	left: 300px;
+}
+
+.ginger-description {
+	position: relative;
+	left: 1000px;
+	bottom: 50px;
+	width: 300px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	box-sizing: content-box;
+	border: 5px solid orange;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.ginger-basket {
+	position: relative;
+	left: 1500px;
+	bottom: 125px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	padding-right: 150px;
+}
+
+.curry {
+	width: 400px;
+	position: relative;
+	top: 150px;
+	left: 300px;
+}
+
+.curry-description {
+	position: relative;
+	left: 1000px;
+	bottom: 50px;
+	width: 300px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	box-sizing: content-box;
+	border: 5px solid orange;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+.curry-basket {
+	position: relative;
+	left: 1500px;
+	bottom: 125px;
+	font-size: 17.5px;
+	font-family: 'Rubik', sans-serif;
+	padding-right: 150px;
+}
+
+.title {
+	position: relative;
+	left: 825px;
+	font-size: 50px;
+}
+
+.footer {
+	padding: 20px;
+	text-align: left;
+	background: orange;
+	height: 250px;
+	position: relative;
+	top: 100px;
+	width: 1897px;
+	padding-right: 1200px;
+}
+
+.footer-title {
+	position: relative;
+	left: 800px;
+	font-size: 40px;
+}
+
+.email {
+	letter-spacing: 5px;
+	position: relative;
+	top: 25px;
+}
+
+.gmail-logo {
+	width: 50px;
+	position: relative;
+	left: 610px;
+	top: 0px;
+}
+
+.phone {
+	letter-spacing: 5px;
+	position: relative;
+	top: 25px;
+}
+
+.phone-logo {
+	width: 33px;
+	position: relative;
+	left: 375px;
+	top: 0px;
+}
+
+.instagram {
+	letter-spacing: 5px;
+	position: relative;
+	top: 25px;
+}
+
+.instagram-logo {
+	width: 33px;
+	position: relative;
+	left: 350px;
+	top: 0px;
+}
