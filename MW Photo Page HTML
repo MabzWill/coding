@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>MW Photo Page</title>
+<link rel="stylesheet" type="text/css" href="MW-Photo-Page.css"/>
+</head>
+
+<body class="page">
+<h1 class="title">MW Photo</h1>
+<h2>Pronounced: em double-u</h2>
+<nav>
+<a href="MW-Main-Page.html"><img class="main-logo" src="Photo/Business logo 1.jpg" alt="logo 1"></a>
+<a href="MW-Spice-Page.html"><img class="sub-logo" src="Photo/Business logo 2.jpg" alt="logo 2"></a>
+<img class="cart" src="Photo/Shopping Cart.jpg" alt="Shopping">
+<p class="bio-link"><a href="MW-Bio-Page.html">Bio</a></p>
+</nav>
+
+<img class="photo1" src="Photo/Mountain 1.jpg" alt="Mount 1">
+<p class="m1">This is an amazingly bright picture of Carnedd y Filiast, North Wales, where one of the most beautiful views are worth witnessing on your living room wall.</p>
+<p class="m1-basket"><a href>Add to basket</a></p>
+
+<img class="photo2" src="Photo/Mountain 2.jpg" alt="Mount 2">
+<p class="m2">This is also another great view from Carnedd y Filiast due to the sea's visibility, another worthy picture to hang on your wall.</p>
+<p class="m2-basket"><a href>Add to basket</a></p>
+
+<img class="photo3" src="Photo/Mountain 3.jpg" alt="Mount 3">
+<p class="m3">This is a great view of Mynydd Perfedd, not too far from Carnedd y Filiast, an extrodinary view of beautiful blue sky and Carnedd y Filiast to go with it.</p>
+<p class="m3-basket"><a href>Add to basket</a></p>
+
+<img class="photo4" src="Photo/Mountain 4.jpg" alt="Mount 4">
+<p class="m4">This is an interesting view of Mynydd Perfedd in a silhouette-like quality with a rare dark blue sky which makes it a rare photo that's would look good on your wall.</p>
+<p class="m4-basket"><a href>Add to basket</a></p>
+
+<img class="photo5" src="Photo/Cliff 1.jpg" alt="Height 1">
+<p class="c1">This is a good view of a cliff at South Stack near Holyhead, a popular tourist attraction for bird watching and a calm sense of aura with a beautiful view of the ocean.</p>
+<p class="c1-basket"><a href>Add to basket</a></p>
+
+<img class="photo6" src="Photo/Cliff 2.jpg" alt="Height 2">
+<p class="c2">this is yet another extrodinary view of South Stack near Holyhead with clear ocen water dotted by rocks where rock-climbers would dream to go.</p>
+<p class="c2-basket"><a href>Add to basket</a></p>
+
+<img class="photo7" src="Photo/Waterfalls.jpg" alt="Water">
+<p class="w1">This is a beautiful view of Aber falls near Aber that includes a beautiful view of the waterfalls surrounded by trees and rocks. A beautiful photograph to put next to your stairs.</p>
+<p class="w1-basket"><a href>Add to basket</a></p>
+
+<img class="photo8" src="Photo/Sea.jpg" alt="Water 2">
+<p class="s1">This is a good picture of the beach in Dinas Dinlle during the evening and with a beautiful dark shade making is almost a black and white picture.</p>
+<p class="s1-basket"><a href>Add to basket</a></p>
+
+<img class="photo9" src="Photo/Beach.jpg" alt="Water 3">
+<p class="b1">This is a nice picture of the beach Dinas Dinlle will a fabulous senset during the summer, a great mix of light and dark for your living room.</p>
+<p class="b1-basket"><a href>Add to basket</a></p>
+
+<img class="photo10" src="Photo/beach 2.jpg" alt="Water 4">
+<p class="b2">This is a beautifuly bright colour of the footway on the hill in Dinas Dinlle where with a beautiful refletion of the evening sun in the sea great for any wall in the house.</p>
+<p class="b2-basket"><a href>Add to basket</a></p>
+
+<div class="footer">
+<h1 class="footer-title">Contact details</h1>
+<h3 class="email">Email Address: MWEnterprise@phonecoop.coop</h3>
+<img class="gmail-logo" src="Photo/Gmail.jpg" alt="logo 1">
+<h3 class="phone">Phone Number: 04867 443169</h3>
+<img class="phone-logo" src="Photo/Phone.jpg" alt="logo 2">
+<h3 class="instagram">Instagram: MW_Enterprise</h3>
+<img class="instagram-logo" src="Photo/Instagram.jpg" alt="logo 3">
+</div>
+
+</body>
