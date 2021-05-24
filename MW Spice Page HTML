@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<div class="bg" src="Photo/Business logo 2.jpg"></div>
+
+<title>MW Spice Page</title>
+<link rel="stylesheet" type="text/css" href="MW-Spice-Page.css"/>
+</head>
+
+<body class="page">
+<h1 class="title">MW Spice</h1>
+<h2>Pronounced: em double-u</h2>
+<nav>
+<a href="MW-Main-Page.html"><img class="main-logo" src="Photo/Business logo 1.jpg" alt="logo 1"></a>
+<a href="MW-Photo-Page.html"><img class="sub-logo" src="Photo/Business logo 3.jpg" alt="logo 2"></a>
+<img class="cart" src="Photo/Shopping Cart.jpg" alt="Shopping">
+<p class="bio-link"><a href="MW-Bio-Page.html">Bio</a></p>
+</nav>
+
+<img class="sweet-paprika" src="Photo/Sweet Paprika.jpg" alt="spice 1">
+<p class="paprika-description">Sweet paprika: a well-known delicious spice made from peppers from Mexico and adds amazing taste to chicken and potato salad.</p>
+<p class="paprika-basket"><a href>Add to basket</a></p>
+
+<img class="cumin" src="Photo/Ground Cumin.jpg" alt="spice 2">
+<p class="cumin-description">Ground cumin: a delicious spice made from seeds of cuminum cyminum plant from the middle east and used in many delicious food like chilli and bread.</p>
+<p class="cumin-basket"><a href>Add to basket</a></p>
+
+<img class="chilli-powder" src="Photo/Hot Chilli Powder.jpg" alt="spice 3">
+<p class="chilli-powder-description">Hot chilli powder: a hot spice made from red cayenee peppers from French Guiana and used for making spicy food like chilli con carny and tacos.</p>
+<p class="chilli-powder-basket"><a href>Add to basket</a></p>
+
+<img class="ginger" src="Photo/Ginger.jpg" alt="spice 4">
+<p class="ginger-description">Ginger: a spice make from fresh ginger from India and China and used for helping people that has a common cold.</p>
+<p class="ginger-basket"><a href>Add to basket</a></p>
+
+<img class="curry" src="Photo/Curry powder.jpg" alt="spice 5">
+<p class="curry-description">Curry powder: a spice made from a mix of different spices such as chilli powder, ground cumin and ground pepper and used for making curry.</p>
+<p class="curry-basket"><a href>Add to basket</a></p>
+
+<div class="footer">
+<h1 class="footer-title">Contact details</h1>
+<h3 class="email">Email Address: MWEnterprise@phonecoop.coop</h3>
+<img class="gmail-logo" src="Photo/Gmail.jpg" alt="logo 1">
+<h3 class="phone">Phone Number: 04867 443169</h3>
+<img class="phone-logo" src="Photo/Phone.jpg" alt="logo 2">
+<h3 class="instagram">Instagram: MW_Enterprise</h3>
+<img class="instagram-logo" src="Photo/Instagram.jpg" alt="logo 3">
+</div>
+
+</body>
