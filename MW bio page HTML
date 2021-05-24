@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>MW Bio page</title>
+<link rel="stylesheet" type="text/css" href="MW-Bio-Page.css"/>
+</head>
+
+<body class="page">
+<h1 class="title">MW bio</h1>
+<h2>Pronounced: em double-u</h2>
+<nav>
+<img class="cart" src="Photo/Shopping Cart.jpg" alt="Shopping">
+<p><a class="main-link" href="MW-Main-Page.html">Main page</a></p>
+</nav>
+
+<img class="founder-image" src="Photo/Business founder.jpg" alt="Mabz Will">
+<p class="bio1">My name is <b>M</b>abz <b>W</b>ill.</p>
+<p class="bio">I grew up in North Wales, Gwynedd with my mother; a journalist to a Welsh newspaper and my father; a self-employed computer repairman and former college tutor. I have a half-sister and half-brother from my father's previous marriage, my sister is a journalist for the news company "The Guardian" and my brother has Autism and lives in a care home.</p>
+<p class="bio">I decided to start a small business because when I grow up I want to be successful and I want to help people to gain good things to make their lives better in anyway possible.</p>
+<p class="bio">I won multiple awards in photography competitions in North Wales and attended catering classes for 6 years, so I understand the importance of quality as well as quantity.</p>
+<p class="bio">I attended "Ysgol Brynrefail" for 5 years and I wish I've done more in it such as choosing different subjects, I was inspired to start my own business when I learnt that many famous successful people didn't attend college and dropped out of school such as Bill Gates(Founder and CEO of Microsoft) and Jim Carrey(Comedian).
+<p class="bio2">During my journey to build the business in which I hope will expand worldwide in the future, I learned that one of the best way to be successful as well as gaining confidence is to trust your instinct as well as instructions.</p>
+
+
+<div class="footer">
+<h1 class="footer-title">Contact details</h1>
+<h3 class="email">Email Address: MWEnterprise@phonecoop.coop</h3>
+<img class="gmail-logo" src="Photo/Gmail.jpg" alt="logo 1">
+<h3 class="phone">Phone Number: 04867 443169</h3>
+<img class="phone-logo" src="Photo/Phone.jpg" alt="logo 2">
+<h3 class="instagram">Instagram: MW_Enterprise</h3>
+<img class="instagram-logo" src="Photo/Instagram.jpg" alt="logo 3">
+</div>
+
+</body>
